@@ -4,8 +4,8 @@ Invoicing and Quotations Application that I made for "SHREE NARASINHA AIR COMPRE
 
 ## Features
 
-- Invoices: Generate Invoices easily with just a few clicks.
-- Quotations: Generate Quotations easily with this application.
+- Invoices : Create, Edit, Print Invoices easily with just a few clicks.
+- Quotations: Create, Edit, Print Quotations easily with just a few clicks.
 
 ## Snapshot
 
